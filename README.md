@@ -1,2 +1,2 @@
-# quanx
-QuantumultX
+This Project is Deprecated.
+
